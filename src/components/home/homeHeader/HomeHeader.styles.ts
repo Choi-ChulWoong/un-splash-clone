@@ -1,9 +1,12 @@
 import styled from '@emotion/styled';
+import { Common } from '@/styles/Common';
 
 export const HeaderBase = styled.header`
   padding: 60px 20px;
   display: flex;
   gap: 24px;
+  margin: 0 auto;
+  max-width: ${Common.screen.width};
 `;
 export const SearchContainer = styled.div`
   width: 100%;
