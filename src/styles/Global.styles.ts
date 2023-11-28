@@ -15,6 +15,5 @@ export const globalStyles = css`
   main {
     position: relative;
     margin: 0 auto;
-    max-width: ${Common.screen.width};
   }
 `;
