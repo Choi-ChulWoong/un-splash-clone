@@ -21,7 +21,6 @@
     "next.config.js"
   ],
   "rules": {
-    "@typescript-eslint/no-unused-vars": "warn",
-    "@emotion/jsx-import": "error"
+    "@typescript-eslint/no-unused-vars": "warn"
   }
 }
