@@ -13,6 +13,7 @@ interface Response {
   totalPage?: number;
   view?: number;
 }
+const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
 export default function handler(
   req: NextApiRequest,
