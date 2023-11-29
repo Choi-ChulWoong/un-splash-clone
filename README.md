@@ -1,13 +1,13 @@
 ## Intro
-This project is a non-profit initiative for personal learning purposes.<br>
 Docs version : 0.2.0<br>
+This project is a non-profit initiative for personal learning purposes.<br>
 
 ---
 
 ### Scripts
 
 ---
-<span style="color: grey;"># 개발 서버 실행 - [localhost:4500](http://localhost:4500)</span><br>
+<span style="color: grey;"># 개발 서버 실행</span><br>
 ```
 $ npm install
 $ npm run dev
@@ -29,8 +29,8 @@ $ npm run dev
 ### API End-points
 
 ---
-1. [api/photos](http://localhost:4500/api/photos) - 상품 리스트
-    1. [/infinite](http://localhost:7501/api/photos/infinite) - 상품 페이징 리스트
+1. [api/photos](http://localhost:4500/api/photos) - 포토 리스트
+    1. [/infinite](http://localhost:4500/api/photos/infinite) - 포토 페이징 리스트
 
 ### Directory Structure
 
