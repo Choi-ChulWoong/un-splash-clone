@@ -10,6 +10,7 @@ export const HeaderBase = styled.header`
 `;
 export const SearchContainer = styled.div`
   width: 100%;
+  min-width: 280px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
