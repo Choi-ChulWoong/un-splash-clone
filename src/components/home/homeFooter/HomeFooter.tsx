@@ -9,7 +9,6 @@ const HomeFooterBase = styled.footer`
   height: 130px;
   border-top: 1px solid ${Common.colors.gray_100};
   background-color: white;
-  z-index: 1000;
 `;
 
 function HomeFooter() {
