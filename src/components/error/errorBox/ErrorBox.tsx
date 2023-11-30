@@ -6,9 +6,13 @@ const ErrorBox = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 100%;
-  height: 100%;
-
+  margin: 50px auto;
+  width: max-content;
+  padding: 20px;
+  text-align: center;
+  & div {
+    margin-bottom: 50px;
+  }
   & h3 {
     font-size: 1.1rem;
     margin-bottom: 12px;
