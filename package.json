@@ -1,5 +1,5 @@
 {
-  "name": "unsplash-clone-",
+  "name": "un-splash-clone",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -16,7 +16,8 @@
     "@tanstack/react-query-devtools": "^5.9.0",
     "next": "14.0.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "zustand": "^4.4.7"
   },
   "devDependencies": {
     "@emotion/eslint-plugin": "^11.11.0",
