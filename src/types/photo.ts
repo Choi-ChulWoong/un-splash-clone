@@ -26,5 +26,8 @@ export interface PhotoData {
     id: string;
     username: string;
     name: string;
+    profile_image: {
+      small: string;
+    };
   };
 }
