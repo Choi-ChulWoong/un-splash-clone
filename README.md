@@ -1,5 +1,5 @@
 ## Intro
-Docs version : 0.2.0<br>
+Docs version : 0.2.1<br>
 This project is a non-profit initiative for personal learning purposes.<br>
 
 ---
@@ -20,6 +20,7 @@ $ npm run dev
 2. Typescript
 3. Emotion
 4. React-query
+5. Zustand
 
 ### Client-routes
 
@@ -52,7 +53,9 @@ $ npm run dev
 │   │   └── home
 │   ├── pages
 │   │   └── api
+│   ├── store
 │   ├── hooks
+│   │   ├── home
 │   │   ├── common
 │   │   └── query
 │   ├── types
